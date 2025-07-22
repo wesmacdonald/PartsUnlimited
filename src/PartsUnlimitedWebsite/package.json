@@ -16,7 +16,7 @@
     "combined-stream": "0.0.7",
     "end-of-stream": "1.0.0",
     "es6-weak-map": "^0.1.2",
-    "form-data": "^0.2.0",
+    "form-data": "^4.0.4",
     "grunt": "1.5.3",
     "grunt-bower-task": "0.4.0",
     "grunt-contrib-concat": "0.5.0",
